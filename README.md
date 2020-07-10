@@ -17,8 +17,8 @@
 
 ## Profiles
 
-### Ross Campbell
+### Ross Campbell 
 
-Ross is a Brooklyn attorney and Solidity programmer focused on making deals more efficienct and secure via smart contracts.
+Ross is a Brooklyn attorney and Solidity programmer making deals and clubs utterly more awesome via smart contracts.
 
 [🐦](https://twitter.com/r_ross_campbell)
