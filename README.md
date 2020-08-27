@@ -11,7 +11,7 @@ James McCall | [`0xd5B3988eD0AB5ec375E51bB6fd10e205cEC16A2E`](https://etherscan.
 Scott Stevenson | [`0x130093A5aEbc07e78e16f0EcEF09d1c45AfD8178`](https://etherscan.io/address/0x130093A5aEbc07e78e16f0EcEF09d1c45AfD8178) | - | ![Blockchain Wizard](https://raw.githubusercontent.com/gemwise-invests/Meta-Skill/master/asset/img/white-mage.png) |
 Stamford Hwang | [`0x4744cda32bE7b3e75b9334001da9ED21789d4c0d`](https://etherscan.io/address/0x4744cda32bE7b3e75b9334001da9ED21789d4c0d) | - | ![Blockchain Wizard](https://raw.githubusercontent.com/gemwise-invests/Meta-Skill/master/asset/img/white-mage.png) |
 Bill Warren | [`0x7136fbDdD4DFfa2369A9283B6E90A040318011Ca`](https://etherscan.io/address/0x7136fbDdD4DFfa2369A9283B6E90A040318011Ca) | - | ![Blockchain Wizard](https://raw.githubusercontent.com/gemwise-invests/Meta-Skill/master/asset/img/white-mage.png) |
-Erich Dylus | [`0xb7f49e02552751b249cae86959fd50d887708b1d`](https://etherscan.io/address/0xb7f49e02552751b249cae86959fd50d887708b1d) | - | - |
+Erich Dylus | [`0xb7f49e02552751b249cae86959fd50d887708b1d`](https://etherscan.io/address/0xb7f49e02552751b249cae86959fd50d887708b1d) | - | ![Blockchain Wizard](https://raw.githubusercontent.com/gemwise-invests/Meta-Skill/master/asset/img/white-mage.png) |
 Anastasia Mackert | [`0x36306c060497b8df0b34485181c012b7acae77b1`](https://etherscan.io/address/0x36306c060497b8df0b34485181c012b7acae77b1) | - | - |
 
 ## Profiles 👤
