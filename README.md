@@ -14,6 +14,7 @@ Bill Warren | [`0x7136fbDdD4DFfa2369A9283B6E90A040318011Ca`](https://etherscan.i
 Erich Dylus | [`0xb7f49e02552751b249cae86959fd50d887708b1d`](https://etherscan.io/address/0xb7f49e02552751b249cae86959fd50d887708b1d) | DC, MD | Solo |
 Nick Viavant | [`0xCC976F37b22B67660D78D9BA9157ABC2131c6F5d`](https://etherscan.io/address/0xCC976F37b22B67660D78D9BA9157ABC2131c6F5d) | NE | - |
 Jordan Teague | [`0xE3bbFD7dbd338a2C1c4F28F8e06aC00589118c4B`](https://etherscan.io/address/0xe3bbfd7dbd338a2c1c4f28f8e06ac00589118c4b) | SC, AL, fed cts | Firm |
+Jared Cohen | [`0xb42Ce7ce6eE1Dd2B7959DD6c120eFAE8Ec288E03`](https://etherscan.io/address/0xb42Ce7ce6eE1Dd2B7959DD6c120eFAE8Ec288E03) | NY | Solo |
 
 ## Profiles 👤
 
@@ -34,3 +35,9 @@ Nick is a Nebraska and Pennsylvania attorney wandering in the dark forest foragi
 Erich is a DMV-area attorney and Solidity experimenter helping DAO-ers mitigate liability and harmonize the off-chain with the on-chain. He spends much of his time helping API3 DAO solve the API connectivity problem, and creating open source legal materials.
 
 [🐦](https://twitter.com/erichdylus) 
+
+### Jared Cohen
+
+Jared is an NYS attorney, programmer, and startup operator. Read more at [NYCOO](https://nycoo.org/).
+
+[🐦](https://twitter.com/jaredcohe)
