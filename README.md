@@ -15,6 +15,7 @@ Erich Dylus | [`0xb7f49e02552751b249cae86959fd50d887708b1d`](https://etherscan.i
 Nick Viavant | [`0xCC976F37b22B67660D78D9BA9157ABC2131c6F5d`](https://etherscan.io/address/0xCC976F37b22B67660D78D9BA9157ABC2131c6F5d) | NE | - |
 Jordan Teague | [`0xE3bbFD7dbd338a2C1c4F28F8e06aC00589118c4B`](https://etherscan.io/address/0xe3bbfd7dbd338a2c1c4f28f8e06ac00589118c4b) | SC, AL (firm: CA, NC) | Firm |
 Jared Cohen | [`0xb42Ce7ce6eE1Dd2B7959DD6c120eFAE8Ec288E03`](https://etherscan.io/address/0xb42Ce7ce6eE1Dd2B7959DD6c120eFAE8Ec288E03) | NY | Solo |
+Mike Wawszczak | [`0x1220d2a0614c4eFE41878EC4a0B89B7F7f67aef7`](https://etherscan.io/address/0x1220d2a0614c4efe41878ec4a0b89b7f7f67aef7) | CA, IL | Solo
 
 ## Profiles 👤
 
@@ -41,3 +42,9 @@ Erich is a DMV-area attorney and Solidity experimenter helping DAO-ers mitigate 
 Jared is an NYS attorney, programmer, and startup operator. Read more at [NYCOO](https://nycoo.org/).
 
 [🐦](https://twitter.com/jaredcohe)
+
+### Mike Wawszczak
+
+Mike is a technology attorney (IP licensing, commercial transactions, privacy and other regulatory compliance, DAOs, NFTs) that specializes in advising clients where regulations are ambiguous and best practices are unsettled. 
+
+[🐦](https://twitter.com/mikewavsz)
